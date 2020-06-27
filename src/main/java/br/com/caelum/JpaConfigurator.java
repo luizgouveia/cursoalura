@@ -32,7 +32,7 @@ public class JpaConfigurator {
 	    System.out.println("pass: " + password);
 		
 	    dataSource.setDriverClassName("com.mysql.jdbc.Driver");
-	    dataSource.setUrl("jdbc:mysql://" + url + "/alura_aws");
+	    dataSource.setUrl("jdbc:mysql://" + url + "/loja_alura_aws");
 	    dataSource.setUsername(user);
 	    dataSource.setPassword(password == null ? "" : password);
 
