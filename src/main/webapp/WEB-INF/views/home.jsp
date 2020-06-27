@@ -6,7 +6,7 @@
 <c:import url="template/top.jsp" />
 <div class="col-sm-8">
 <div class="panel panel-default">
-	<div class="panel-heading">Produto</div>
+	<div class="panel-heading">PRODUTOS PRODUTOS PRODUTOS PROTUDOS</div>
 	<div class="panel-body">
 		<div class="row">
 			<c:forEach items="${produtos}" var="produto">
