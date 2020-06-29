@@ -1,2 +1,2 @@
-service tomcat8 stop
-service tomcat8 start
+sudo service tomcat8 stop
+sudo service tomcat8 start
